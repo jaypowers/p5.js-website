@@ -1,0 +1,9 @@
+name: p5_latex.js
+category: math
+description: Render LaTeX expressions as reusable p5.Graphics buffers for mathematical sketches, diagrams, labels, and classroom visuals.
+author:
+  name: Jayson Powers
+sourceUrl: https://github.com/jaypowers/p5_latex
+featuredImage: ../images/p5_latex_thumbnail.png
+featuredImageAlt: A dark p5.js canvas thumbnail with rendered LaTeX equations, plotted curves, vector fields, and math annotations.
+license: Apache-2.0
